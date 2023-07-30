@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690750934 source:c:\users\víctor melo\desktop\github\montyhall montecarlo\montyhallmontecarlo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
